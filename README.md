@@ -1,10 +1,7 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+# Local Setup
+1. Create open weather api account and choose one call api
+2. Create geoapify api account
+3. Open .env file and change values of REACT_APP_WEATHER_API and REACT_APP_PLACES_API to the api token from open weather api and geoapify
 
 ### `npm start`
 
@@ -68,3 +65,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
