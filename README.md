@@ -1,6 +1,6 @@
 # Local Setup
-1. Create open weather api account and choose one call api
-2. Create geoapify api account
+1. Create open weather api account https://openweathermap.org/api/one-call-api
+2. Create geoapify api account https://www.geoapify.com/geocoding-api
 3. Open .env file and change values of REACT_APP_WEATHER_API and REACT_APP_PLACES_API to the api token from open weather api and geoapify
 
 ### `npm start`
